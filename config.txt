@@ -1,0 +1,1 @@
+{'sendName': 'NUC服务器', 'sendMail': '2407174040@qq.com', 'sendPass': 'ehzxgjoyrlrgdjbb', 'receiverName': 'USER', 'receiverMail': '994000103@qq.com', 'mailTitle': 'NUC服务器已启动', 'SMTPserver': 'smtp.qq.com', 'SMTPport': '465'}
